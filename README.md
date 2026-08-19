@@ -19,7 +19,7 @@
 
 ---
 
-### 🧰 Arsenal
+### 🧰 Skillset
 
 <div align="center">
 
