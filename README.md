@@ -3,8 +3,6 @@
 <p align="center">
   <b>Penetration Tester in Training · Bug Bounty Hunter · Security Researcher</b><br>
   📍 Karachi, Pakistan • Open to internships
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=hamx05&style=flat-square&color=FF6B6B" alt="Profile Views" />
 </p>
 
 ---
